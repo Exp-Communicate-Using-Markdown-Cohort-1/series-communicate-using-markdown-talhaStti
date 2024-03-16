@@ -5,3 +5,7 @@
 #### This is my example heading "h4" size 
 ##### This is my example heading "h5" size 
 ###### This is my example heading "h6" size 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
